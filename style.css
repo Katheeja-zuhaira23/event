@@ -1,0 +1,29 @@
+
+img{
+    height: 60%;
+    width:60% ;
+    margin-top: 50%;
+}
+form{
+    
+    margin-top: 10px;
+}
+.alert alert-success container{
+    position: relative;
+    height: 100%;
+    margin-left: 100px;
+}
+.inputs{
+    position: absolute;
+    top:130px;
+    left:40%;
+}
+body{
+    background-color:#d4edda!important;
+}
+p{
+    margin-left: 37%;
+}
+h3{
+    margin-left: 40%!important;
+}
